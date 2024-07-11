@@ -19,3 +19,10 @@ a:hover {
   margin-bottom: 2rem;
 }
 
+footer p {
+  margin: 0.1rem auto;
+}
+
+.copyright-info {
+  padding-top: 1.25rem;
+}
